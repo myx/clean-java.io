@@ -1,0 +1,8 @@
+Type: ae3.Package
+Name: clean-java.io
+Title: Clean: myx's java.io basic class implementations
+Provides:	\
+	clean-java.io \
+	source-process:compile-java \
+	source-process:ae3-packages \
+
